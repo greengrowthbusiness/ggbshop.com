@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<title>Green Growth Business</title>
+<head>
+<tr>
+<table width="100%" border="1"></tr>
+<tr>
+<td colspan="0" height="10" bgcolor="white"><center><h2>LOGO</h2>
+</td>
+<td colspan="2" bgcolor="black"><center><h2>Contents of What We Offer</h2>
+<title>Dropdown Nabar</title>
+<meta charset="utf"8">
+<style>
+.navBAR{margin:0 auto; width:1080px;}
+.navBAR ul{padding:0px; align:right;}/*this will align the text vertically*/
+.navBAR ul li{float:right; margin:5px; position:relative; background-color:black; border-radius:10px; list-style-type:none;}
+.navBAR ul li a{text-decoration:none; color:white; padding:10px; font-weight:bolder; display:black; width:200px; text-align:center;}
+.navBAR ul li ul{position:absolute; visibility:hidden;}
+.navBAR ul li:hover ul{visibility:visible;}
+.navBAR ul li a:hover{color:blue;}
+.navBAR ul li:hover{background-color:yellow;}
+</style>
+<div class="navBAR">
+<ul>
+<li><a href="STORE LOCATION.html">STORE LOCATION</a>
+<ul>
+<li><a href="transportation.html">Transportation and Schedule</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="WE GUARANTEE.html">WE GUARANTEE</a>
+<ul>
+<li><a href="plant care guides.html">Plant care Guides</a></li>
+<li><a href="green living guidance.html">Green Living Guidance</a></li>
+<li><a href="gardening inspiration.html">Gardening Instpiration</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="ABOUT US.html">ABOUT US</a>
+<ul>
+<li><a href="what we offer.html">What We Offer</a></li>
+<li><a href="our story.html">Our Story</a></li>
+<li><a href="members.html">Members</a></li>
+<li><a href="join us.html">Join Us</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="PRODUCTS.html">PRODUCTS</a>
+<ul>
+<li><a href="indoor plants.html">Indoor Plants</a></li>
+<li><a href="outdoor plants.html">Outdoor Plants</a></li>
+<li><a href="low maintenance.html">Low Maintenance</a></li>
+<li><a href="new arrivals.html">New Arrivals</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="HOME.html">HOME</a>
+<ul>
+<li><a href="PRODUCTS.html">Products</a></li>
+<li><a href="ABOUT us.html">About us</a></li>
+<li><a href="WE GUARANTEE.html">We Guarantee</a></li>
+<li><a href="STORE LOCATION">Store Location</a></li>
+</ul>
+</li>
+</ul>
+</tr>
+</td>
+</head>
+
+<body>
+<table width="100%" border="1">
+<tr>
+<td height="500" width="100%" colspan="3" align=right" valign="top"><img src="banner.jpeg">
+</td>
+</tr>
+
+<footer>
+<tr>
+<td height="100" colspan="3" bgcolor="black">
+</tr>
+</td>
+</footer>
